@@ -1,0 +1,4 @@
+email = "BOT EMAIL"
+password = "BOT PASSWORD"
+
+info = "DESCRIPTION TO BE PRINTED WHEN INFO @BOT IS CALLED."
