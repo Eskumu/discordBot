@@ -17,13 +17,13 @@ Then cd to inner to xkcdBot:
 
 `cd xkcdBot`
 
-####Create settings
+#### Create settings
 Create `settings.py` from `settings.py.example`
 
 `cp settings.py.example settings.py`
 
 or rename the file
 
-####Run the bot
+#### Run the bot
 
 `python discord_bot.py`
